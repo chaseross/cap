@@ -1,0 +1,297 @@
+﻿EU Stress Test Case
+
+
+Background: [barclays piece “european hg banks stress” from ft has good background]
+
+
+* Bank funding costs and equity prices had increased/decreased markedly through 2009 into 2010. 
+* To help deleveraging and stabilize lending in early 2009, governments across Europe took on risk from banks in the form of asset purchases, government guarantees of bank debt, and direct capitalization with state money.
+* Banks responded by financing the resulting deficit playing the carry trade -- borrowing cheaply in short term markets at yields held down by loose monetary policy and investing in higher yielding government debt. 
+* Stability did not result, though, and it became clear that the governments and banks were in the “same boat, and that boat was sinking.” [these 3 from barclays]
+* Regime switch in the correlation between CDS spreads in senior European financials vs. European sovereigns become closely correlated in Q1 2009, so the sovereign debt issue was an obvious driver[1]
+  
+
+  
+
+* A general lack of information about risks and exposures within the banking system made it difficult for investors to distinguish good from bad banks
+* This combined with a background of falling real estate prices “and the sense that European banks never took the losses that UK and US banks did in 2009” [from barclays piece] due to:
+   * More lenient stress tests with results not publicly disclosed
+   * And party from accounting changes which allowed the transfer of distressed assets from mark-to-market trading books into banking books. 
+  
+
+* So higher sovereign spreads raised floor for bank funding costs [again, all from barclays] meaning there was less senior unsecured debt issuance. Probably more than it was just too expensive, not that they lost access to funding. 
+* Since little transparency in banks exposures, investors assumed the worst for all banks → hence systemically raised funding costs for everybody. 
+* The 2010 CEBS EU-Wide stress test was announced December 2, 2009 -- roughly 2 months after the 2009 CEBS EU-Wide stress test results were announced.[2]
+* Last but not least, the design of the EU stress tests contributed to their poor reception.  The methodology and results of the initial October 2009 test were described solely in a three-page press release – summarizing the presentation made by CEBS to ECOFIN Ministers and Governors. No individual bank results were published (thereby making it impossible to distinguish weak from strong banks); the capital benchmark used in the 2009 test was the Tier 1 ratio rather than the more demanding tier 1 common or core tier 1 ratios; and since no bank among the 22 major cross-border banks in the sample saw its tier 1 capital ratio fall below 6 percent -- even in the more adverse scenario, there were no capital actions taken (beyond the government support measures previously announced during the crisis. (from goldstein)
+* * ECOFIN -- the Economic and Financial Affairs Council, composed of economics and finance ministers from all member states of the EU -- mandated CEBS to carry out a second EU-wide test in December 2009[3] that was to, in addition to examining the resilience of the aggregate banking sector as was done in the previous test, also examine “the dependence of EU banks on public support and on the amount of capital available for further lending in the context of exit strategies should be provided”[4]
+* Spain announced they would publicly publish the results of the bank-by-bank tests, and France and Germany soon followed, and the European Council formally mandated CEBS to disclose the results on June 17, 2010.[5] This came in the shadow of the May 2009 SCAP which did the same and was seen as particularly successively, whereas the preceding 2009 CEBS did not do this and had much less impact.[6] 
+* With the tests, authorities sought to allay investors “uncertainty and distrust” by capitalizing on the relative success of the SCAP released a year earlier
+* Although the 2010 test nominally aimed at “[assessing] banks’ ability to absorb further credit and market shocks...and their dependence on public support measures,” market participants felt the real value was in the clarity and transparency involved in the test (not unlike the 2009 SCAP)
+
+
+Anticipation:
+
+
+* As the CEBS provided only limited information on the design and specifics of the test there was significant speculation.
+* The main known facts before hand was that their forecasts saw a 3% decline in GDP in the following year, and that the hurdle rate would be 6%.
+* Because of the low hurdle rate, it was clear that banks which were “successful” in the test were not per se actually solvent. 
+* UBS: “Stress tests are not a panacea. Without a significant proportion, by assets and number, failing, the tests potentially amount to little more than an empty gesture.”[7]
+* “In US stress tests over half of participants failed. The ‘successful’ US stress tests, which are commonly associated with a turning point in US bank equity prices and better fixed income markets, saw over half of participants fail. The US$75 billion in common equity they raised in the following weeks was, in our view, the key to the exercise raising confidence.”[8]
+* Significant discussion around haircuts on peripheral sovereign debt:
+   * van Steenis: “The guidance we have been given is the tests were not going to include any discussion of sovereign risks for all sorts of obvious reasons, not least the massive EU/IMF support plan for Greece and back-up for other countries. We think that some investors will be disappointed by this. To be clear, one does not have to have a strong view on the outcome of the peripheral bonds either way to realize that a bank with a large concentration of Greek bonds as % of tangible equity may act in a far more risk averse fashion in extending credit than one with a much lower %, given the uncertainty on how this will play out over the coming years… This surely is an issue which macro-prudential policy should weigh up, independent of taking a view on what will happen on the debt itself.”
+   * FT: “So again, it seems odd for pragmatic reasons not to simulate a Greek haircut, if the point is EU-wide disclosure.”[9]
+  
+
+
+
+* Overall the main value was going to be the transparency and the general ability to parse out the extreme ends of the risk distribution -- “This ability to separate the clearly good from the clearly bad will be important in mitigating problems of adverse selection, and thus keep risk premia and funding costs for the system as a whole from rising.” GS Page 5
+* But mixed messages leading up to the release: Spanish Minister of Finance said before hand that all 8 private banks and 18 cajas tested passed. Confusing as the IMF assumed EUR 22 billion in injections (in its worse case scenario). The difference came down the the Bank of Spain allowing banks to include funding from their “Funds for Orderly Bank Restructuring (FROB)”  as Tier 1 capital (FROB were preference shares yielding >7.75% which, if the savings bank repaid the “loans” could then include FROB funding as capital. It was unclear how this would count as Tier 1 if the savings bank did not make the payments and defaulted on it.)
+   * UBS’s Alastair Gray via the FT: “We see little value in ‘stress test’ that major Spanish lenders all passed. We consider banks on the basis of ‘stressed’ credit loss risks, but also more broadly to include margin trends, funding needs, market structure and the macro situation. With customer spreads falling rapidly, €650bn of wholesale funding needs, overvalued property and declining nominal GDP, we would see little value in a credit ‘stress test’ that major Spanish lenders all passed.”[10]
+* In a sample of 365 European market institutional investors, a Goldman Sachs survey just days before the publication of the results suggested that only 35% “expect the stress test to be a credible reflection of bank resilience in a downturn.”[11]
+* However, “The balance of news is still consistent with better-than--expected stress test results, and so far we have only heard of two banks as being reported to have failed -- the German bank HRE and the Slovenian bank NLB.”
+
+
+Design:[12]
+
+
+* The 2010 CEBS stress test was the first time the results were published in such a detailed and public manner; like the SCAP, results were released bank by bank
+* Came after the 2009 CEBS “Stress Testing Exercise” which aimed to “enhance the level of aggregate information among policymakers in assessing the resilience of the European banking system. The objective was not to assess individual banks’ recapitalisation needs.”[13]
+* Thus, the 2010 test differed from the test a year earlier in a few key aspects: 
+   * (1) the 2010 exercise included a larger portion of the banking system 
+      * 2009: 26 major European border institutions 
+      * 2010: 91 banks (covering ~65% of banking sector assets) in 2011
+   * (2) Provide “a detailed breakdown between trading and banking book exposures” rather than 2010’s goal of assessing the banking system’s resilience in aggregate
+   * (3) The hurdle rate increased from 4% Tier 1 to 6% in 2010.
+* Banks included in the tested sample, amounting to 65% of total EU banking sector assets, were also designed to capture at least 50% of each national banking sector
+   * In the cases when subsidiaries and branches of banks from other countries covered more than 50% of a country’s local market, that specific country would not have any additional testing. This applied to 7 Member states. 
+* Like SCAP, was a set of “what-if” scenarios
+* Focus on credit and market risks (including sovereign exposures). Did not directly address liquidity risks as this is a capital adequacy test.
+* Assumed “zero growth” for the evolution for market and credit risks over the whole stress horizon, but did include any significant “regulatory imposed decisions (e.g. restructuring plans…) management actions (e.g. capital raisings or divestment programmes)... announced before 1 July 2010 have also been taken into account. The results do not include any government support of recapitalisation measures taken after 1 July 2010. 
+* Exercise done in year end 2009 figures and applied over a 2 year period[14]
+* Also included public banks -- German Landesbank and Spanish Cajas (which were the most obscure at the time)
+* Incorporated some EUR 197 billion in government capital support provided until July 1, 2010 (approximately 1.2% of aggregate Tier 1)
+
+
+* Test Scenarios
+   * Developed by CEBS along with ECB and EU Commission;originally based on the EU Commission’s August 2009 Forecasts and The EC’s Interim Forecast in February 2010 with certain updates to reflect more recent developments. 
+   * Each EU member state was assigned a set of macro parameters, which came from either CEBS or the “participating authorities outside of the narrative of the macro-economic scenarios as provided by the EU Commission and the ECB, notably the evolution of real estate prices.”[15]
+      * This led to criticism later; for example, in the adverse scenario in Austria CRE prices increased, while Greece assumed only a 2% decline. Compares with a 30% drop in Spain, and a 5-10% drop in most countries[16]
+   * Two scenarios (like SCAP again): adverse and baseline
+   * The adverse scenario was then subjected to a sovereign risk, which amounted to mark-to-market losses equal to the May 2010 Greek stresses -- that is, it affected their trading book but not their HTM books. Van Steenis calculates banks hold about 90% of their Greek government bonds in their banking book and 10% in their trading books. 
+   * SOvereign debt scenario focused on exposures in trading book, although 83% of sovereign exposure in banking book. And the banking book was not subjected to haircuts. (Blundell wignall and slovik 2010 via Goldstein)
+   * CEBS was not forthcoming about the specific forecasts under each scenario, but mentioned GDP, unemployment, inflation and interest rates. 
+   * Specifics
+      * 1. GDP forecasts would rely on the European Commission’s (EC) forecasts for 2010 and 2011; the adverse scenario would then contract this by 3% across the entire Union, but it was initially unclear how it would be distributed across the countries[17]
+         * This was actually more adverse than SCAP which assumed growth of -2% in 2009 and +2.1% in 2010 in the base case, and of -3.3% and +0.5% respectively in the adverse scenario.[18]
+      * 2. It was widely believed CEBS would mark down sovereign prices to the lows of May 2010 “to simulate an increase in sovereign risk”. 
+      * 3. Adverse scenario used EU-specific shock to yield curve, varying across countries. All countries had a common upward shift of 125 bps for 3 month rates (reflecting tensions in interbank markets) and 75 bps for 10 year rates at year end 2011. 
+      * To this shift, then they added country specific haircuts which were then applied to all EU sovereign debt holdings in trading books across the sample.
+   * Sovereign Risk
+      * Participants viewed the shock to sovereign securities as “somewhat limit” because the test only examined trading hits (i.e., mark-to-market losses) and not losses in securities in held-to-maturity portfolios. 
+      * This isn’t completely unreasonable as the test centered on regulatory capital, and losses in HTM books are not generally counted as part of regulatory capital
+      * But the big question was what these haircuts would be, especially looking at some banks Greece exposures to tangible equity. 
+   * Sovereign Haircut Calculations: (from JPMC from FT link with all research)
+      * As stated by CEBS in the Aggregate outcome of the 2010 EU wide stress test exercise, the haircuts are applied to the market value of bonds at the end of 2009, separately for each year. The haircuts used (Table 8) are the future values of the outstanding sovereign bonds. The exercise is supposed to provide the values of the bonds to be booked in the end-2010 and end-2011 accounts. This implies that a 5- year bond, representative of the average maturity of this portfolio by banks, has duration of only 3 years at the end of 2011, when accounts are closed. The haircuts can be decomposed to reflect the three main contributing factors: the overall rise in long-term interest rates foreseen in the benchmark macroeconomic scenario, the common upward shift of the yield curves, and the country-specific sovereign risk shock. The decomposition illustrates that for some non-euro area countries, the higher haircuts are driven primarily by the expected increase in longterm interest rates, with the impact of the sovereign risk shock playing a lesser role. 
+   * Beyond the sovereign securities shock, not much specific information released beforehand. 
+   * Sovereigns composed about 5% of Euro-zone bank balance sheets, compared to loans (57%), corporate securities (13%) and other assets the remainder. 
+   * The CEBS stress case consists of two elements; one which covers losses on government bonds held on the trading book and another which covers additional impairment losses in the banking book (presumably to reflect a scenario under which borrowing costs risk for domestic entities as sovereign spreads increase). In our opinion, this may not cover the actual sovereign risks faced by the European sector; trading book losses are likely to be small compared to potential sovereign exposures in held-to-maturity or available-for-sale portfolios, and flexing the impairment charge on the overall loan book (and including hypothetical losses on top-tier sovereigns) seems to us a poor way of compensating for this omission.  From CS piece. 
+* Hurdle Rate:
+* Review: banks hold protection against credit and trading losses through credit and capital buffers. 
+* Credit protection comes from retained earnings and reserves beyond what they allocate for expected losses
+* Capital is the stock of capital beyond minimum legal requirement
+* CEBS did not set a credit buffer, at least not publicly
+* FT suggested the hurdle rate would be 6%
+   * Although, this was not meant to be a new regulatory minimum; that remained 4% of Tier 1 Capital.
+* Some saw this as somewhat low; though few banks would fail this and at 6% the average bank could sustain 10.2% loan losses (4.7% of total assets)
+
+
+Results (general website: https://web.archive.org/web/20120615110737/http://www.eba.europa.eu/EuWideStressTesting.aspx):
+
+
+* As a result of the adverse scenario, 7 (7.7% of the 91 banks tested) banks would see their Tier 1 Capital fall below the 6% hurdle. Overall shortfall of EUR 3.5 billion of Tier 1 funds.
+* Results announced on a Friday evening in Europe (midday in NYC); Came with another joint press statement from CEBS, ECB, and EC: “We support, in particular, the transparency of this exercise, given the specific market circumstances under which banks currently operate. We therefore welcome the publication of banks’ individual results, particularly their respective capital positions and loss estimates under an adverse scenario, as well as detailed information on banks’ exposures to EU/EEA central and local government debt. Such disclosures ensure transparency regarding conditions in the EU banking sector.”[19] 
+* Simple way to look at it: In aggregate expected to face losses of 4.5% of RWA over 2 years, which would be essentially exactly offset by profits.
+   * Many observers did not care for how optimistic profit assumptions were.
+   * US had a similar profit estimations, but write downs of about 8% of RWA, resulting in 3% hit to Tier 1 ratios. 
+   * BoE calculates that in previous crises in Japan and Sweden, the average bank’s losses were about 4%. 
+   * CEBS response? Well, we’re looking for a double dip recession not economic armageddon. [20]
+* The announced the aggregate results[21] 30 minutes before the 91 bank-by-bank results.[22] (and the website failed…)
+* [Insert table with espirito bank example]
+* Tests included sovereign support received by institutions at end of 2009; this support included capital injections, guarantees of assets, liabilities or funding, and government/central bank provided liquidity. 
+* 20 banks in the 91 bank sample “benefitted” from asset guarantees
+* 34 banks benefited from EUR 170 billion of aggregate capital  -- about 14% of aggregate Tier 1 Capital. That is, it increased stressed Tier 1 Capital by 1.2%[23]
+* Basically, CEBS assumed sovereigns would continue providing this support well past the test horizon because they have “a useful life extending beyond the horizon of the exercise.” Which is consistent with the EU’s insistence that no sovereign will be allowed to fail, but “it just doesn’t seem right.”[24]
+   * Many of the banks with the most public assistance are also relying on the weakest sovereigns (exception being Landesbanks): 
+      * Greek banks raise EUR 9.4 billion from government
+      * Spanish cajas with FROB funding
+      * Irish banks
+   * Moreover, some of the implicit support CEBS is counting on had already fallen by the wayside; rating agencies removed implicit government support of hybrid bonds after the EC turned on hybrid capital via “burden-sharing”[25]
+   * Aka, hybrid bonds were on their way out of banks’ capital structures, but CEBS included it and implied it would be around for a while
+* S
+Reception:
+
+
+* Before results announced:
+   * After results announced
+   * “Business Insider: It’s Official: The Stress Tests Were a Joke…”[26]
+   * “Alright, it's official. The stress tests were a joke.
+
+Consider:
+
+The adverse economic scenario was for a small decline.
+The total capital needs of ALL the failed banks was just 3.5 billion eur.
+Only 7 banks failed, and the two big ones are already nationalized.
+Only one Greek bank failed.
+Verdict: joke.”
+   * From the summary report: “Government support measures received by institutions in the sample as of end 2009 have been taken into account and subject to specific analysis.” Although it is peculiar to include sovereign support in a stress test caused by concerns about sovereign default.[27] 
+   * Interbank market got no relief -- following Monday’s rates were one-year highs. [SEE EXCEL EURIBOR]
+   * LOTS OF MARKET REACTION PIECES HERE http://discussions.ft.com/longroom/tables/the-wall-of-worry/european-stress-test-reax-round-up 
+   * Really, not too much surprise design wise, although a lot more detail than expected. A nontrivial amount of information had been leaked through the various national supervisors in the weeks leading up to it, so less of a reaction.
+   * DB from that link right above: We were disappointed with the stress test in three areas. First, we do not find a 6% stated tier 1 ratio target particularly challenging. Second, we have found it difficult to reconcile some banks’ assumptions (some banks have forecast that they will make more pre-provision revenue in an adverse scenario than they did in 2009; we believe that too much reliance has been placed on Q1 2010 run-rates). Third, we think that trading book shocks have not been sufficiently conservative, even before considering sovereign risk. In the adverse scenario, Euro 473bn of impairment (banking book) losses were included, and just Euro 26bn from trading losses, which does not match the experience of 2007 to 2009, in our eyes. 
+   * BEST ONE HERE: final-stress-test.pdf from credit suisse. See http://discussions.ft.com/longroom/tables/the-wall-of-worry/european-stress-test-reax-round-up 
+   *    * Unlike the US’s SCAP which marked the turning point in sentiment in the banking system’s health -- which is indeed difficult to quantifiably show, however Bernanke notes it was was a turning point -- the turning point in the EU did not come after any of three stress tests in 2009, 2010 nor 2011. Instead it came after ECB President Mario Draghi’s pledge to do “whatever it takes” to save the Euro in July 2012, and the beginning of the LTROs.[28]
+
+
+Evaluation
+   * Morris:
+   * 1. CEBS and EBA were new institutions with small staffs/budgets and little credibility compared to the US SCAP’s Fed and Treasury
+   * 2. Unlike US, (as there was no critical mass formed on EU banking union) there was no agreement before June 2012 on bank resolution or EU wide funding of bank failures. Remember, SCAP had billions backing it from TARP, on the order of $200 billion remaining.  Banking system in Euro is larger in the US too, relative to GDP. 
+   * 3. Eu policies from 2007-2015 have broadly been seen as less successful in reducing tail risks than in the US
+   * 4. Outside estimates of capital shortfall have consistently been greater than 
+   * NPL framework much worse than in the United States
+   * Used Tier 1 rather than more demanding tier 1 common or core tier 1 ratios
+   * Had lossesa ssumed in trading book been expanded to banking book, capital shortfall would have been 165 billion vs. 26 billion (from blundell wignall slovik (2010) via golstein)
+   * Ireland’s banking system melted down in October 2010, just 3 months after CEBS 2010 passed Ireland’s 2 biggest banks -- Bank of Ireland and Allied Irish Banks
+   *    * 5. 
+   * From Golstein: Bernanke’s reading of the reaction to 2010 EU-wide  stress-test results  (2015, p. 482) was representative:  “European bank regulators conducted a stress test of the continent’s banks in July (2010).  But, unlike the U.S. stress test of the previous year, investors did not see the results as credible, and Europe’s banks remained wary of lending, including to each other.”
+
+   * Candelon and Sly (2015) argue that the the generalized common view  that all EU-wide stress tests were unsuccessful is not accurate, pointing in particular to the estimated positive impact of the 2010 test on returns  -- with an estimated size roughly half that for the 2009 SCAP. 
+
+
+Key Design Decisions
+
+
+      1. Why only stress sovereign exposures in trading books and not in banking (ie avaialbe for sale and hold to maturity) books?
+      2. Why a hurdle rate of Tier 1 at 6%?
+      3. Why include public assistance if sovereign default risk is a driving problem?
+      4. Why calculate pre-provision profits on a constant balance sheet?
+      5. The tests disclosed bank-by-bank exposures via government bond holdings by country in both their trading and banking books. Why not stress the banking book as well?
+      6. Why model the loss assumptions on a “mild recession” instead of a very severe scenario, aswas the case in the United States’ SCAP?
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Purpose: “The EU-wide stress testing exercises aimed at examining the resilience of the banking sector, improving transparency, identifying vulnerabilities, and informing policy-makers about the current capacity of banks to absorb shocks and the banking system’s dependence on public support measures “
+
+
+Chart ideas
+      * Close correlation of sovereign and bank CDS after 2009 but not before
+
+
+Coverage:
+      * 91 banks in 20 countries
+      * 65% of total assets in EU banking system
+Scenarios
+      * -3% growth deviation from the baseline for the EU as a whole
+      * Assets will be marked down, but not sovereign securities held to maturity
+      * [wrt sovereign securities] “As such, the stress tests may not go far enough, but the additional transparency coming out of the exercise will surely be welcome.” [gs]
+
+
+
+
+Background: http://ftalphaville.ft.com//2010/07/23/295781/the-stress-test-guide/
+
+
+From : http://www.doc88.com/p-47630860174.html
+
+
+
+
+http://www.fondsnieuws.nl/images/stories/pdf/Goldman_Sachs_European_Weekly_Analyst_300910.pdf 
+
+
+EBA https://web.archive.org/web/20120615110737/http://www.eba.europa.eu/EuWideStressTesting.aspx
+
+
+
+
+http://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1312&context=ncbi 
+
+
+http://ftalphaville.ft.com/2010/07/23/
+
+
+Stress test event study from IMF: https://www.imf.org/external/pubs/ft/wp/2015/wp1575.pdf
+  
+
+From IMF paper
+
+
+
+
+
+
+Capital market consequencse of EU bank stress tests
+
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiRjcGX-dnLAhXFFz4KHUH_CToQFggdMAA&url=https%3A%2F%2Fwww.newyorkfed.org%2Fmedialibrary%2Fmedia%2Fresearch%2Fconference%2F2012%2FFinancialServices2012%2FEllahie.pdf&usg=AFQjCNGR_AVfhEJHsaPuYSG9lMCQkq42ZQ&cad=rja
+
+
+http://www.dbresearch.com/servlet/reweb2.ReWEB?rwobj=cdscalc2.Start.class&rwnode=DBR_INTERNET_EN-PROD%24EM&rwsite=DBR_INTERNET_EN-PROD&cdsCountry=CDSC0000000000000146&cdsRecRate=20
+
+
+Db implied default from CDS
+
+
+________________
+[1] Nielsen (July 22, 2010). “European Weekly Analyst. Issue No:10/27” Goldman Sachs Global Investment Research. http://www.doc88.com/p-47630860174.html 
+[2] Where is the CEBS link? Can’t find it. This is from: Candelon and Sy (2015). “How Did Markets React to Stress Tests?” IMF Working Paper. https://www.imf.org/external/pubs/ft/wp/2015/wp1575.pdf 
+[3] ECOFIN (December 2, 2009). Press Release. http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ecofin/111706.pdf 
+[4] CEBS (June 18, 2010). “CEBS’S Press Release on the State of Play with the 2010 EU-Wide Stress Testing Exercise.” http://www.eba.europa.eu/documents/10180/15977/PR_2010stresstesting.pdf 
+[5] European Council (June 17, 2010). “European Council: 17 June 2010. Conclusions.” http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ec/115346.pdf 
+[6] Fidler (June 18, 2010). “Tide Turns for ‘Stress-Testing’ of Banks.” Wall Street Journal. http://www.wsj.com/articles/SB10001424052748704289504575312623132289494 
+[7] UBS via Financial Times (June 18, 2010). http://ftalphaville.ft.com//2010/06/18/265236/must-europes-stress-tests-fail-in-order-to-succeed/ 
+[8] Ibid.
+[9] Cotterill (June 18, 2010). “Sovereigns not included? More on Europe’s Stress Tests.” Financial Times http://ftalphaville.ft.com/2010/06/18/265776/sovereigns-not-included-more-on-europes-stress-tests/ 
+[10] UBS via Financial Times (June 18, 2010). http://ftalphaville.ft.com//2010/06/18/265236/must-europes-stress-tests-fail-in-order-to-succeed/ 
+[11] Goldman Sachs via Financial Times (July 23, 2010). “Market GIves Banks a ‘B’ Ahead of Stress Tests.”http://ftalphaville.ft.com//2010/07/23/296596/market-gives-banks-a-%E2%80%98b-ahead-of-the-stress-tests/ 
+[12] CEBS (July 23, 2010). “Aggregate Outcome of the 2010 EU Wide Stress Test Exercise Coordinated by CEBS in Cooperation with the ECB.” This document provides all relevant methodology.
+[13] CEBS (October 1 2009) “CEBS’S Press Release on the Results of the EU-Wide Stress Testing Exercise.” Link: https://www.eba.europa.eu/documents/10180/15977/CEBS-2009-180-Annex-2-(Press-release-from-CEBS).pdf 
+[14] CEBS (July 23, 2010). “Question and Answers: 2010 EU-Wide Stress Testing Exercise.” https://web.archive.org/web/20120415042552/http://stress-test.c-ebs.org/documents/QAs.pdf 
+[15] From the summary report
+[16] http://www.economist.com/node/16702019 
+[17] CEBS (July 7, 2010). “CEBS’S Statement on Key Features of the Extended EU-Wide Stress Test.” Press Release.
+[18] Federal Reserve (April 24, 2009). “The Supervisory Capital Assessment Program: Design and Implementation.” http://www.federalreserve.gov/bankinforeg/bcreg20090424a1.pdf  
+[19] Joint Press Release: CEBS, ECB, EC. “Publication of the Results of the EU-Wide Stress-testing Exercise.” https://web.archive.org/web/20120416133319/http://www.eba.europa.eu/documents/JointPressRelease.aspx 
+[20] http://www.economist.com/node/16702019 
+[21] CEBS (2010). “CEBS’S Press Release on the Results of the 2010 EU-WIde Stress Testing Exercise.”  (Aggregate results and the first release) https://web.archive.org/web/20120415042159/http://stress-test.c-ebs.org/documents/CEBSPressReleasev2.pdf 
+[22] CEBS (2010). “CEBS Bank Specific Publication of the Stress Test Outputs.” https://web.archive.org/web/20120415041252/http://stress-test.c-ebs.org/documents/Listofbanksv2.pdf  
+[23] Alloway (July 26 2010). “Stress Test’s Sovereign Support = Senseless.” Financial Times. http://ftalphaville.ft.com/2010/07/26/296871/stress-tests-sovereign-support-senseless/ 
+[24] Ibid. 
+[25] Ibid, with http://ftalphaville.ft.com/blog/2009/09/09/70611/tear-down-this-hybrid-capital-wall/ 
+[26] Weisenthal (July 23, 2010). “It’s Official: The Stress Tests were a Joke.” Business Insider. http://www.businessinsider.com/its-official-the-stress-tests-were-a-joke-2010-7 
+[27] Alloway (July 26 2010). “Stress Test’s Sovereign Support = Senseless.” Financial Times. http://ftalphaville.ft.com/2010/07/26/296871/stress-tests-sovereign-support-senseless/ 
+[28] Morris book pg 12

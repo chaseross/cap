@@ -1,0 +1,195 @@
+\begin{thebibliography}{28}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ire(2011)]{Ireland}
+{The Financial Measures Programme Report}.
+\newblock \emph{Central Bank of Ireland}, 2011.
+\newblock URL
+  \url{http://www.centralbank.ie/regulation/industry-sectors/credit-institutions/Documents/The\%20Financial\%20Measures\%20Programme\%20Report.pdf}.
+
+\bibitem[Acharya et~al.(2014)Acharya, Engle, and Pierret]{Engle}
+Viral Acharya, Robert Engle, and Diane Pierret.
+\newblock {Testing Macroprudential Stress Tests: The Risk of Regulatory Risk
+  Weights}.
+\newblock \emph{Journal of Monetary Economics}, 2014.
+\newblock URL
+  \url{http://pages.stern.nyu.edu/~sternfin/vacharya/public_html/pdfs/Testing_Macro_Stress_Tests_March27.pdf}.
+
+\bibitem[Alloway(2009)]{Alloway2}
+T.~Alloway.
+\newblock {Tear Down this Hybrid Capital Wall}.
+\newblock 2009.
+\newblock URL
+  \url{http://ftalphaville.ft.com//2009/09/09/70611/tear-down-this-hybrid-capital-wall/}.
+
+\bibitem[Alloway(2010)]{Alloway}
+T.~Alloway.
+\newblock {Stress Test's Sovereign Support = Senseless}.
+\newblock 2010.
+\newblock URL
+  \url{http://ftalphaville.ft.com/2010/07/26/296871/stress-tests-sovereign-support-senseless/}.
+
+\bibitem[Candelon and Sy(2015)]{Candelon}
+Bertrand Candelon and Amandou~N.R. Sy.
+\newblock {How Did Markets React to Stress Tests?}
+\newblock \emph{IMF Working Paper}, 2015.
+\newblock URL \url{https://www.imf.org/external/pubs/ft/wp/2015/wp1575.pdf}.
+
+\bibitem[{Committee of European Banking Supervisors}(2009)]{CEBSOctober2009}
+{Committee of European Banking Supervisors}.
+\newblock {CEBS Press Release on the Results of the EU-Wide Stress Testing
+  Exercise}.
+\newblock 2009.
+\newblock URL
+  \url{https://www.eba.europa.eu/documents/10180/15977/CEBS-2009-180-Annex-2-\%28Press-release-from-CEBS\%29.pdf}.
+
+\bibitem[{Committee of European Banking
+  Supervisors}(2010{\natexlab{a}})]{Methodology}
+{Committee of European Banking Supervisors}.
+\newblock {Aggregate Outcome of the 2010 EU Wide Stress Test Exercise
+  Coordinated by CEBS in Cooperation with the ECB}.
+\newblock 2010{\natexlab{a}}.
+\newblock URL
+  \url{https://www.eba.europa.eu/documents/10180/15938/Summaryreport.pdf/95030af2-7b52-4530-afe1-f067a895d163}.
+
+\bibitem[{Committee of European Banking Supervisors}(2010{\natexlab{b}})]{QA}
+{Committee of European Banking Supervisors}.
+\newblock {Questions and Answers: 2010 EU-Wide Stress Testing Exercise}.
+\newblock 2010{\natexlab{b}}.
+\newblock URL
+  \url{https://www.ecb.europa.eu/pub/pdf/other/euwidestresstestingexercise-qaen.pdf?860c12759915bf0e3a8cd5486cb595a4}.
+
+\bibitem[{Council of the European Union}(2009)]{CEBS2009}
+{Council of the European Union}.
+\newblock {Press Release: 2981st Council Meeting, Economic and Financial
+  Affairs}.
+\newblock 2009.
+\newblock URL
+  \url{https://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ecofin/111706.pdf}.
+
+\bibitem[{Federal Reserve}(2009)]{SCAPResults}
+{Federal Reserve}.
+\newblock {The Supervisory Capital Assessment Program: Overview of Results}.
+\newblock 2009.
+\newblock URL
+  \url{http://www.federalreserve.gov/newsevents/press/bcreg/bcreg20090507a1.pdf}.
+
+\bibitem[{Fitch}(2009)]{Fitch}
+{Fitch}.
+\newblock {Fitch Downgrades Lloyds, RBS, ING, Other EU Banks' Hybrids on
+  Increased Risk of Coupon Deferral}.
+\newblock 2009.
+\newblock URL
+  \url{http://ftalphaville.ft.com//2009/08/20/67906/hybrid-debt-attack-for-real-from-fitch/}.
+
+\bibitem[Goldstein and Sapra(2013)]{Itay}
+Itay Goldstein and Haresh Sapra.
+\newblock {Should Banks' Stress Test Results be Disclosed? An Analysis of the
+  Costs and Benefits}.
+\newblock 2013.
+\newblock URL
+  \url{http://faculty.chicagobooth.edu/Haresh.Sapra/research/docs_RP/stresstests_GS_FTF_Dec_2013.pdf}.
+
+\bibitem[Gonzalez(2010)]{Gonzalez}
+Carlos~Berastain Gonzalez.
+\newblock {Spanish Financials: Interpreting the Stress Test Results: Banks and
+  Cajas}.
+\newblock \emph{Deustche Bank Global Markets Research}, 2010.
+
+\bibitem[{IMF}(2012)]{IMF}
+{IMF}.
+\newblock {Macrofinancial Stress Testing -- Principles and Practices}.
+\newblock 2012.
+\newblock URL \url{https://www.imf.org/external/np/pp/eng/2012/082212.pdf}.
+
+\bibitem[Kojucharov(2010)]{Goldman}
+Nick Kojucharov.
+\newblock {European Weekly Analyst, Issue No. 10/27: On the Eve of the Bank
+  Stress Tests}.
+\newblock \emph{Goldman Sachs Global Investment Research}, 2010.
+
+\bibitem[Marcussen and Baader(2010)]{SG}
+Michala Marcussen and Klaus Baader.
+\newblock {European Bank Stress Tests}.
+\newblock \emph{Societe General Cross Asset Research}, 2010.
+
+\bibitem[Nedialkov et~al.(2010)Nedialkov, Ghose, and Lakhani]{Nedialkov}
+Stefan Nedialkov, Ronit Ghose, and Kinner Lakhani.
+\newblock {European Bank Stress Tests: Data Full, Not Stress Full}.
+\newblock \emph{Citi Research}, 2010.
+
+\bibitem[Nielsen et~al.(2010)Nielsen, Smidth, and Pedersen]{Nielsen}
+Flemming~J. Nielsen, Gustav Smidth, and Kristian~Myrup Pedersen.
+\newblock {Implications of the European Stress Test}.
+\newblock \emph{Danske Research}, 2010.
+
+\bibitem[Posen and Veron(2014)]{Posen}
+Adam Posen and Nicholas Veron.
+\newblock {Europe's Half a Banking Union}.
+\newblock 2014.
+\newblock URL \url{http://bruegel.org/2014/09/europes-half-a-banking-union/}.
+
+\bibitem[Ross(2016{\natexlab{a}})]{Ross2016a}
+Chase~P. Ross.
+\newblock {The Supervisory Capital Assessment Program}.
+\newblock \emph{Yale Program on Financial Stability Intervention Case},
+  2016{\natexlab{a}}.
+\newblock URL \url{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2722712}.
+
+\bibitem[Ross(2016{\natexlab{b}})]{Ross2016b}
+Chase~P. Ross.
+\newblock {Financial Services Authority 2008/9 Stress Tests}.
+\newblock \emph{Yale Program on Financial Stability Intervention Case},
+  2016{\natexlab{b}}.
+\newblock URL
+  \url{http://som.yale.edu/download-ypfs/Financial-Services-Authority-Tests.pdf}.
+
+\bibitem[Ross et~al.(2016)Ross, Wiggins, and Metrick]{RossWiggins}
+Chase~P. Ross, R.~Wiggins, and A.~Metrick.
+\newblock {European Central Bank Tools and Policy Actions A: Open Market
+  Operations, Collateral Expansion and Standing Facilities}.
+\newblock \emph{Yale Program on Financial Stability Intervention Case}, 2016.
+\newblock URL \url{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2721873}.
+
+\bibitem[Samuels and Harrison(2010)]{Samuels}
+Simon Samuels and Mike Harrison.
+\newblock {Happy Now? Four Questions on the European Banks' Stress Test}.
+\newblock \emph{Barclays Capital Credit Research}, 2010.
+
+\bibitem[Schuermann(2011)]{Schuermann2011}
+Til Schuermann.
+\newblock {Stress Testing Banks}.
+\newblock \emph{Wharton Financial Institutions Center}, 2011.
+\newblock URL \url{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2041579}.
+
+\bibitem[Schuermann(2016)]{Schuermann2016}
+Til Schuermann.
+\newblock {Stress Testing in Wartime and in Peacetime}.
+\newblock \emph{Stress Testing and Macroprudential Regulation: A Trans-Atlantic
+  Assessment}, 2016.
+\newblock URL \url{http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2735895}.
+
+\bibitem[Spick(2010)]{Deutsche}
+Matt Spick.
+\newblock {Interpreting the Stress Test Results}.
+\newblock \emph{Deustche Bank European Bank Strategy}, 2010.
+
+\bibitem[Sunderji et~al.(2010)Sunderji, Julius, and Leeming]{Sunderji}
+Aziz Sunderji, Jeroen Julius, and Matt Leeming.
+\newblock {European Bank Stress Test Results: A Systemic Positive, Despite the
+  Oversights}.
+\newblock \emph{Barclays Capital Credit Research}, 2010.
+
+\bibitem[Wignall-Blundell and Slovik(2010)]{OECD}
+Adrian Wignall-Blundell and Patrick Slovik.
+\newblock {The EU Stress Test and Sovereign Debt Exposures}.
+\newblock \emph{OECD Working Papers on Finance, Insurance and Private
+  Pensions}, 2010.
+\newblock URL
+  \url{http://search.proquest.com/docview/1081470338?pq-origsite=gscholar}.
+
+\end{thebibliography}
