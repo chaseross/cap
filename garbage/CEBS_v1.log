@@ -1,15 +1,22 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 APR 2016 19:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.14)  11 APR 2016 15:24
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **CEBS_v1.tex
-(./CEBS_v1.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Users\cpr22\Google Drive\work\ypfs\cebs\code\CEBS_v1.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(X:\tex\miktex\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(X:\tex\miktex\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -23,8 +30,8 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+(X:\tex\miktex\tex\latex\tools\longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip43
 \LTright=\skip44
 \LTpre=\skip45
@@ -41,22 +48,22 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count91
 \LT@p@ftn=\toks14
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+(X:\tex\miktex\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(X:\tex\miktex\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(X:\tex\miktex\tex\generic\oberdiek\ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(X:\tex\miktex\tex\generic\oberdiek\ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(X:\tex\miktex\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count92
@@ -71,15 +78,16 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen110
 \Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks16
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+
+(X:\tex\miktex\tex\latex\geometry\geometry.cfg))
+(X:\tex\miktex\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip47
 \bibsep=\skip48
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count95
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
+(X:\tex\miktex\tex\latex\booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen112
 \lightrulewidth=\dimen113
@@ -99,10 +107,10 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count99
 \@thisrulewidth=\dimen124
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(X:\tex\miktex\tex\latex\amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(X:\tex\miktex\tex\latex\amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup4
@@ -110,24 +118,24 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+(X:\tex\miktex\tex\latex\amsmath\amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+(X:\tex\miktex\tex\latex\amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+(X:\tex\miktex\tex\latex\amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks18
 \ex@=\dimen125
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(X:\tex\miktex\tex\latex\amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen126
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+(X:\tex\miktex\tex\latex\amsmath\amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count100
@@ -168,13 +176,13 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/outlines/outlines.sty
+(X:\tex\miktex\tex\latex\outlines\outlines.sty
 Package: outlines 2012/1/23 1.1 Ch. Pecheur
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+(X:\tex\miktex\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/soul/soul.sty
+(X:\tex\miktex\tex\latex\soul\soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks23
 \SOUL@lasttoken=\toks24
@@ -186,31 +194,31 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@uldp=\dimen135
 \SOUL@ulht=\dimen136
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/eurosym/eurosym.sty
+(X:\tex\miktex\tex\latex\eurosym\eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box32
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(X:\tex\miktex\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(X:\tex\miktex\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+(X:\tex\miktex\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(X:\tex\miktex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(X:\tex\miktex\tex\latex\pdftex-def\pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(X:\tex\miktex\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(X:\tex\miktex\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count112
@@ -218,7 +226,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen137
 \Gin@req@width=\dimen138
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(X:\tex\miktex\tex\latex\fancyhdr\fancyhdr.sty
 \fancy@headwidth=\skip53
 \f@ncyO@elh=\skip54
 \f@ncyO@erh=\skip55
@@ -229,7 +237,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \f@ncyO@olf=\skip60
 \f@ncyO@orf=\skip61
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/preprint/authblk.sty
+(X:\tex\miktex\tex\latex\preprint\authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
 \affilsep=\skip62
 \@affilsep=\skip63
@@ -237,7 +245,7 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@authors=\count114
 \c@affil=\count115
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lineno/lineno.sty
+(X:\tex\miktex\tex\latex\lineno\lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count116
 \output=\toks28
@@ -255,20 +263,20 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \bframebox=\box33
 LaTeX Info: Redefining \\ on input line 3056.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+(X:\tex\miktex\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+(X:\tex\miktex\tex\latex\hyperref\hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+(X:\tex\miktex\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+(X:\tex\miktex\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -297,7 +305,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -305,22 +313,22 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(X:\tex\miktex\tex\latex\oberdiek\auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(X:\tex\miktex\tex\latex\oberdiek\kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen144
 \Hy@linkcounter=\count123
 \Hy@pagecounter=\count124
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+(X:\tex\miktex\tex\latex\hyperref\pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count125
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(X:\tex\miktex\tex\latex\00miktex\hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -352,12 +360,12 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+(X:\tex\miktex\tex\latex\hyperref\hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count131
 \c@bookmark@seq@number=\count132
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(X:\tex\miktex\tex\latex\oberdiek\rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -366,10 +374,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+(X:\tex\miktex\tex\latex\caption\caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+(X:\tex\miktex\tex\latex\caption\caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen148
@@ -384,28 +392,24 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/ltcaption.sty
+(X:\tex\miktex\tex\latex\caption\ltcaption.sty
 Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+(X:\tex\miktex\tex\latex\oberdiek\epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(X:\tex\miktex\tex\latex\oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(X:\tex\miktex\tex\latex\oberdiek\grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-)))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+))
+(X:\tex\miktex\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip65
 \enit@outerparindent=\dimen155
@@ -413,23 +417,15 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box34
 \enitdp@description=\count134
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/filecontents/filecontents.sty
+(X:\tex\miktex\tex\latex\filecontents\filecontents.sty
 Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
 eX document
 )
 
 LaTeX Warning: Overwriting file `./CEBS_v1.bib'.
 
-\openout15 = `CEBS_v1.bib'.
 
-
-(./CEBS_v1.aux
-
-LaTeX Warning: Label `figure2' multiply defined.
-
-)
-\openout1 = `CEBS_v1.aux'.
-
+No file CEBS_v1.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 390.
 LaTeX Font Info:    ... okay on input line 390.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 390.
@@ -444,7 +440,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 390.
 LaTeX Font Info:    ... okay on input line 390.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 390.
 LaTeX Font Info:    ... okay on input line 390.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -479,7 +474,7 @@ LaTeX Font Info:    ... okay on input line 390.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(X:\tex\miktex\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count135
 \scratchdimen=\dimen156
@@ -494,20 +489,20 @@ LaTeX Font Info:    ... okay on input line 390.
 \everyMPtoPDFconversion=\toks31
 )
 \AtBeginShipoutBox=\box36
- (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+ (X:\tex\miktex\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+(X:\tex\miktex\tex\latex\00miktex\color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 142.
+Package color Info: Driver file: pdftex.def on input line 130.
 )
 Package hyperref Info: Link coloring ON on input line 390.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+(X:\tex\miktex\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(X:\tex\miktex\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count141
@@ -515,33 +510,27 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 390.
 LaTeX Info: Redefining \pageref on input line 390.
 LaTeX Info: Redefining \nameref on input line 390.
-
-(./CEBS_v1.out) (./CEBS_v1.out)
 \@outlinefile=\write3
-\openout3 = `CEBS_v1.out'.
-
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for U+msa on input line 411.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+(X:\tex\miktex\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 411.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+(X:\tex\miktex\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 411.
+
+Package natbib Warning: Citation `Ross2016a' on page 1 undefined on input line 
+411.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 411.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 411.
+Package natbib Warning: Citation `Ross2016b' on page 1 undefined on input line 
+411.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 413--419
 
@@ -549,11 +538,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 413--419
 
 [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./CEBS_v1.toc)
+{C:/Users/cpr22/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 \tf@toc=\write4
-\openout4 = `CEBS_v1.toc'.
-
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -561,25 +547,65 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] <../input/Chart.pdf, id=183, 509.16272pt x 143.03539pt>
+[2]
+
+Package natbib Warning: Citation `CEBS2009' on page 3 undefined on input line 4
+29.
+
+
+Package natbib Warning: Citation `RossWiggins' on page 3 undefined on input lin
+e 431.
+
+
+Package natbib Warning: Citation `Sunderji' on page 3 undefined on input line 4
+31.
+
+
+LaTeX Warning: Reference `figure1' on page 3 undefined on input line 431.
+
+<../input/Chart.pdf, id=24, 508.62894pt x 144.10236pt>
 File: ../input/Chart.pdf Graphic file (type pdf)
 
 <use ../input/Chart.pdf>
 Package pdftex.def Info: ../input/Chart.pdf used on input line 436.
-(pdftex.def)             Requested size: 433.62001pt x 121.81416pt.
+(pdftex.def)             Requested size: 433.62001pt x 122.85037pt.
 
-<../input/realestate.pdf, id=184, 681.13902pt x 203.92587pt>
+<../input/realestate.pdf, id=25, 687.91704pt x 216.87325pt>
 File: ../input/realestate.pdf Graphic file (type pdf)
 
 <use ../input/realestate.pdf>
 Package pdftex.def Info: ../input/realestate.pdf used on input line 444.
-(pdftex.def)             Requested size: 433.62001pt x 129.82132pt.
+(pdftex.def)             Requested size: 433.62001pt x 136.70366pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <../input/Chart.pdf>] [4 <../input/realestate.pdf, page is rotated 90 degree
-s>] <../input/flowchart.pdf, id=233, 596.05658pt x 323.23822pt>
+
+Package natbib Warning: Citation `Sunderji' on page 3 undefined on input line 4
+51.
+
+
+Package natbib Warning: Citation `CEBSOctober2009' on page 3 undefined on input
+ line 451.
+
+
+Package natbib Warning: Citation `Goldman' on page 3 undefined on input line 45
+1.
+
+[3 <C:/Users/cpr22/Google Drive/work/ypfs/cebs/input/Chart.pdf>]
+
+Package natbib Warning: Citation `Methodology' on page 4 undefined on input lin
+e 455.
+
+
+Package natbib Warning: Citation `Methodology' on page 4 undefined on input lin
+e 457.
+
+
+LaTeX Warning: Reference `design' on page 4 undefined on input line 461.
+
+[4 <C:/Users/cpr22/Google Drive/work/ypfs/cebs/input/realestate.pdf, page is ro
+tated 90 degrees>] <../input/flowchart.pdf, id=58, 596.05658pt x 323.23822pt>
 File: ../input/flowchart.pdf Graphic file (type pdf)
 
 <use ../input/flowchart.pdf>
@@ -587,244 +613,385 @@ Package pdftex.def Info: ../input/flowchart.pdf used on input line 467.
 (pdftex.def)             Requested size: 417.23677pt x 226.2652pt.
 
 
+Package natbib Warning: Citation `Deutsche' on page 5 undefined on input line 4
+69.
+
+
+Package natbib Warning: Citation `Methodology' on page 5 undefined on input lin
+e 504.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 505.
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <../input/flowchart.pdf, page is rotated 90 degrees>] [6]
-Overfull \hbox (5.29759pt too wide) in alignment at lines 558--563
-[] [] [] [] [] [] 
- []
+
+LaTeX Warning: Reference `haircuts' on page 5 undefined on input line 510.
+
+[5 <C:/Users/cpr22/Google Drive/work/ypfs/cebs/input/flowchart.pdf, page is rot
+ated 90 degrees>]
+
+Package natbib Warning: Citation `Methodology' on page 6 undefined on input lin
+e 549.
 
 
-Overfull \hbox (5.29759pt too wide) in alignment at lines 563--580
-[] [] [] [] [] [] 
- []
+Package longtable Warning: Column widths have changed
+(longtable)                in table 2 on input line 550.
 
-[7] [8] <../input/tier1outcome.pdf, id=300, 678.60123pt x 365.62798pt>
+
+Package natbib Warning: Citation `Methodology' on page 6 undefined on input lin
+e 579.
+
+
+Package natbib Warning: Citation `SG' on page 6 undefined on input line 579.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 3 on input line 580.
+
+
+Package natbib Warning: Citation `Alloway' on page 6 undefined on input line 58
+6.
+
+
+Package natbib Warning: Citation `Methodology' on page 6 undefined on input lin
+e 588.
+
+
+Overfull \vbox (364.669pt too high) has occurred while \output is active []
+
+
+[6]
+
+LaTeX Warning: Reference `tier1outcome' on page 7 undefined on input line 596.
+
+
+LaTeX Warning: Reference `figure4' on page 7 undefined on input line 596.
+
+[7] <../input/tier1outcome.pdf, id=99, 687.2266pt x 379.18362pt>
 File: ../input/tier1outcome.pdf Graphic file (type pdf)
 
 <use ../input/tier1outcome.pdf>
 Package pdftex.def Info: ../input/tier1outcome.pdf used on input line 603.
-(pdftex.def)             Requested size: 339.29977pt x 182.81354pt.
- [9 <../input/tier1outcome.pdf, page is rotated 90 degrees>] [10]
+(pdftex.def)             Requested size: 343.61246pt x 189.59134pt.
 
-Package natbib Warning: Citation `Spick' on page 11 undefined on input line 669
+
+Package natbib Warning: Citation `Methodology' on page 8 undefined on input lin
+e 605.
+
+
+Package natbib Warning: Citation `Methodology' on page 8 undefined on input lin
+e 628.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 4 on input line 629.
+
+[8 <C:/Users/cpr22/Google Drive/work/ypfs/cebs/input/tier1outcome.pdf, page is 
+rotated 90 degrees>]
+
+LaTeX Warning: Reference `keydesign' on page 9 undefined on input line 645.
+
+
+Package natbib Warning: Citation `Nedialkov' on page 9 undefined on input line 
+645.
+
+
+Package natbib Warning: Citation `Methodology' on page 9 undefined on input lin
+e 653.
+
+[9]
+
+Package natbib Warning: Citation `Methodology' on page 10 undefined on input li
+ne 659.
+
+
+Package natbib Warning: Citation `QA' on page 10 undefined on input line 667.
+
+
+Package natbib Warning: Citation `Gonzalez' on page 10 undefined on input line 
+669.
+
+
+Package natbib Warning: Citation `Spick' on page 10 undefined on input line 669
 .
 
-[11]
+[10]
 
-Package natbib Warning: Citation `Danske' on page 12 undefined on input line 67
+Package natbib Warning: Citation `Deutsche' on page 11 undefined on input line 
+673.
+
+
+Package natbib Warning: Citation `Samuels' on page 11 undefined on input line 6
+73.
+
+
+Package natbib Warning: Citation `Danske' on page 11 undefined on input line 67
 7.
 
-[12]
+
+Package natbib Warning: Citation `QA' on page 11 undefined on input line 680.
+
+[11]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [13]
-Overfull \vbox (0.36166pt too high) has occurred while \output is active []
 
 
-[14] <../input/unemployment.pdf, id=393, 596.74843pt x 500.0523pt>
+Package natbib Warning: Citation `QA' on page 12 undefined on input line 692.
+
+
+Package natbib Warning: Citation `QA' on page 12 undefined on input line 694.
+
+
+Package natbib Warning: Citation `QA' on page 12 undefined on input line 696.
+
+
+Package natbib Warning: Citation `Samuels' on page 12 undefined on input line 7
+01.
+
+[12]
+
+Package natbib Warning: Citation `SCAPResults' on page 13 undefined on input li
+ne 703.
+
+
+Package natbib Warning: Citation `Alloway' on page 13 undefined on input line 7
+07.
+
+
+Package natbib Warning: Citation `Alloway' on page 13 undefined on input line 7
+09.
+
+
+Package natbib Warning: Citation `Fitch' on page 13 undefined on input line 709
+.
+
+
+Package natbib Warning: Citation `Alloway2' on page 13 undefined on input line 
+709.
+
+
+LaTeX Warning: Reference `unemployment' on page 13 undefined on input line 713.
+
+
+
+LaTeX Warning: Reference `REforecast' on page 13 undefined on input line 713.
+
+[13] <../input/unemployment.pdf, id=154, 490.3638pt x 418.17328pt>
 File: ../input/unemployment.pdf Graphic file (type pdf)
 
 <use ../input/unemployment.pdf>
 Package pdftex.def Info: ../input/unemployment.pdf used on input line 719.
-(pdftex.def)             Requested size: 195.12767pt x 163.50699pt.
+(pdftex.def)             Requested size: 195.12767pt x 166.39856pt.
 
-<../input/REforecast.pdf, id=396, 536.65877pt x 210.65752pt>
+
+Package natbib Warning: Citation `Methodology' on page 14 undefined on input li
+ne 722.
+
+<../input/REforecast.pdf, id=155, 512.48514pt x 209.96724pt>
 File: ../input/REforecast.pdf Graphic file (type pdf)
 
 <use ../input/REforecast.pdf>
 Package pdftex.def Info: ../input/REforecast.pdf used on input line 728.
-(pdftex.def)             Requested size: 433.62001pt x 170.21056pt.
+(pdftex.def)             Requested size: 433.62001pt x 177.65921pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package natbib Warning: Citation `Methodology' on page 14 undefined on input li
+ne 730.
 
-[15 <../input/unemployment.pdf, page is rotated 90 degrees>]
+
+Package natbib Warning: Citation `SCAPResults' on page 14 undefined on input li
+ne 730.
+
+
+Package natbib Warning: Citation `QA' on page 14 undefined on input line 735.
+
+[14 <C:/Users/cpr22/Google Drive/work/ypfs/cebs/input/unemployment.pdf> <C:/Use
+rs/cpr22/Google Drive/work/ypfs/cebs/input/REforecast.pdf, page is rotated 90 d
+egrees>]
+
+Package natbib Warning: Citation `QA' on page 15 undefined on input line 737.
+
+
+Package natbib Warning: Citation `Posen' on page 15 undefined on input line 739
+.
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [16 <../input/REforecast.pdf, page is rotated 90 degrees>] [17] [18] (./CEBS_v
-1.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
-\OT1/cmr/m/n/12 URL [][]$\OT1/cmtt/m/n/12 http : / / www . centralbank . ie / r
-egulation / industry -[] sectors / credit -[]
- []
+
+Package natbib Warning: Citation `OECD' on page 15 undefined on input line 745.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
-\OT1/cmtt/m/n/12 institutions / Documents / The % 20Financial % 20Measures % 20
-Programme %
- []
+
+Package natbib Warning: Citation `Engle' on page 15 undefined on input line 747
+.
+
+[15]
+
+Package natbib Warning: Citation `Schuermann2011' on page 16 undefined on input
+ line 749.
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 30--35
-[]\OT1/cmr/m/n/12 T. Al-loway.  Stress Test's Sovereign Sup-port = Sense-less. 
- 2010.  URL
- []
+Package natbib Warning: Citation `Ireland' on page 16 undefined on input line 7
+49.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--35
-[][]$\OT1/cmtt/m/n/12 http : / / ftalphaville . ft . com / 2010 / 07 / 26 / 296
-871 / stress -[] tests -[] sovereign -[]
- []
+Package natbib Warning: Citation `Schuermann2011' on page 16 undefined on input
+ line 749.
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 43--49
-[]\OT1/cmr/m/n/12 Committee of Eu-ro-pean Bank-ing Su-per-vi-sors.  CEBS Press 
-Re-lease on
- []
+Package natbib Warning: Citation `Schuermann2016' on page 16 undefined on input
+ line 751.
 
 
-Underfull \hbox (badness 4713) in paragraph at lines 43--49
-\OT1/cmr/m/n/12 the Re-sults of the EU-Wide Stress Test-ing Ex-er-cise.  2009. 
- URL
- []
+Package natbib Warning: Citation `Itay' on page 16 undefined on input line 753.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--49
-[][]$\OT1/cmtt/m/n/12 https : / / www . eba . europa . eu / documents / 10180 /
- 15977 / CEBS -[] 2009 -[] 180 -[]
- []
+
+Package natbib Warning: Citation `Itay' on page 16 undefined on input line 753.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
-[]\OT1/cmr/m/n/12 Committee of Eu-ro-pean Bank-ing Su-per-vi-sors.  Ques-tions 
-and An-
- []
 
+Package natbib Warning: Citation `Candelon' on page 16 undefined on input line 
+755.
 
-Underfull \hbox (badness 2717) in paragraph at lines 60--65
-\OT1/cmr/m/n/12 swers: 2010 EU-Wide Stress Test-ing Ex-er-cise.  2010b.  URL []
-[]$\OT1/cmtt/m/n/12 https :
- []
+[16] [17]
+No file CEBS_v1.bbl.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 774.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
-\OT1/cmtt/m/n/12 / / www . ecb . europa . eu / pub / pdf / other / euwidestress
-testingexercise -[]
- []
-
-[19] [20]) [21]
+(X:\tex\miktex\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 774.
 
 Overfull \hbox (108.77994pt too wide) in paragraph at lines 774--776
-\OT1/cmtt/m/n/12 pub / pdf / other / euwidestresstestingexercise -[] qaen . pdf
- ? 860c12759915bf0e3a8cd5486cb595a4$[][] 
+$\OT1/cmtt/m/n/12 pub / pdf / other / euwidestresstestingexercise -[] qaen . pd
+f ? 860c12759915bf0e3a8cd5486cb595a4$[][] 
  []
 
 
 Overfull \hbox (4.9921pt too wide) in paragraph at lines 781--784
 \OT1/cmr/m/it/12 test. [][]$\OT1/cmtt/m/n/12 https : / / www . eba . europa . e
-u / documents / 10180 / 15938 / Summaryreport .
+u / documents / 10180 / 15938 / Summaryreport .$
  []
 
 
 Overfull \hbox (8.89207pt too wide) in paragraph at lines 784--786
 \OT1/cmr/m/it/12 data. [][]$\OT1/cmtt/m/n/12 https : / / www . eba . europa . e
-u / documents / 10180 / 15938 / Listofbanksv2 .
+u / documents / 10180 / 15938 / Listofbanksv2 .$
  []
 
 
 Overfull \hbox (8.86769pt too wide) in paragraph at lines 792--794
 \OT1/cmr/m/it/12 pean Com-mis-sion. [][]$\OT1/cmtt/m/n/12 http : / / eur -[] le
-x . europa . eu / legal -[] content / EN / ALL / ?uri =
+x . europa . eu / legal -[] content / EN / ALL / ?uri =$
  []
 
 
 Overfull \hbox (17.65489pt too wide) in paragraph at lines 794--795
 [][]$\OT1/cmtt/m/n/12 http : / / ftalphaville . ft . com / /2009 / 08 / 20 / 67
-906 / hybrid -[] debt -[] attack -[] for -[]
+906 / hybrid -[] debt -[] attack -[] for -[]$
  []
 
-[22]
+[18]
 Overfull \hbox (4.3923pt too wide) in paragraph at lines 815--818
 \OT1/cmr/m/it/12 the tests. [][]$\OT1/cmtt/m/n/12 http : / / ftalphaville . ft 
-. com / 2010 / 07 / 26 / 296871 / stress -[] tests -[]
+. com / 2010 / 07 / 26 / 296871 / stress -[] tests -[]$
  []
 
 
 Overfull \hbox (3.83058pt too wide) in paragraph at lines 818--819
 \OT1/cmr/m/n/12 ber 9, 2009 -- \OT1/cmr/m/it/12 Ar-ti-cle dis-cussing the use o
-f hy-brid cap-i-tal. [][]$\OT1/cmtt/m/n/12 http : / / ftalphaville .
+f hy-brid cap-i-tal. [][]$\OT1/cmtt/m/n/12 http : / / ftalphaville .$
  []
 
 
 Overfull \hbox (34.1799pt too wide) in paragraph at lines 829--832
 [][]$\OT1/cmtt/m/n/12 http : / / pages . stern . nyu . edu / []sternfin / vacha
-rya / public _ html / pdfs / Testing _
+rya / public _ html / pdfs / Testing _$
  []
 
 
 Overfull \hbox (32.99307pt too wide) in paragraph at lines 838--841
 \OT1/cmr/m/it/12 con-ducted in nor-mal times. [][]$\OT1/cmtt/m/n/12 http : / / 
-papers . ssrn . com / sol3 / Papers . cfm ? abstract _
+papers . ssrn . com / sol3 / Papers . cfm ? abstract _$
  []
 
 
 Overfull \hbox (28.74426pt too wide) in paragraph at lines 841--844
 \OT1/cmr/m/it/12 how stress tests can af-fect a su-per-vi-sor's cred-i-bil-ity.
- [][]$\OT1/cmtt/m/n/12 http : / / faculty . chicagobooth .
+ [][]$\OT1/cmtt/m/n/12 http : / / faculty . chicagobooth .$
  []
 
-[23]
+[19]
 Overfull \hbox (34.1799pt too wide) in paragraph at lines 855--856
-\OT1/cmtt/m/n/12 institutions / Documents / The % 20Financial % 20Measures % 20
-Programme % 20Report .
+$\OT1/cmtt/m/n/12 institutions / Documents / The % 20Financial % 20Measures % 2
+0Programme % 20Report .$
  []
 
-[24]
+[20]
 Overfull \hbox (3.31863pt too wide) in paragraph at lines 889--890
 []\OT1/cmr/m/n/12 Should hy-brid se-cu-ri-ties as-so-ci-ated with pu-bic sup-po
 rt be in-cluded? 
  []
 
-[25]
+[21]
 
 Package natbib Warning: There were undefined citations.
 
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 920.
-[26]
+[22]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 920.
- (./CEBS_v1.aux)
+ ("C:\Users\cpr22\Google Drive\work\ypfs\cebs\code\CEBS_v1.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 920.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 920.
-Package rerunfilecheck Info: File `CEBS_v1.out' has not changed.
-(rerunfilecheck)             Checksum: 252A45FFFAB9E79B446274B3456B71A5;2340.
 
 
-LaTeX Warning: There were multiply-defined labels.
+Package rerunfilecheck Warning: File `CEBS_v1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CEBS_v1.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  134E766D821B20A63E7D7D17D931CF25;2368.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 920.
  ) 
 Here is how much of TeX's memory you used:
- 9284 strings out of 493089
- 136692 string characters out of 6134842
- 251024 words of memory out of 5000000
- 12467 multiletter control sequences out of 15000+600000
- 15776 words of font info for 61 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 36i,11n,47p,1329b,662s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on CEBS_v1.pdf (26 pages, 362628 bytes).
+ 9151 strings out of 493921
+ 131821 string characters out of 3152896
+ 240771 words of memory out of 3000000
+ 12185 multiletter control sequences out of 15000+200000
+ 15776 words of font info for 61 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,11n,47p,1329b,662s stack positions out of 5000i,500n,10000p,200000b,50000s
+<X:/tex/miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><X:/tex/miktex/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><X:/tex/miktex/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><X:/tex/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><X:/tex/m
+iktex/fonts/type1/public/amsfonts/cm/cmr17.pfb><X:/tex/miktex/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><X:/tex/miktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><
+X:/tex/miktex/fonts/type1/public/amsfonts/cm/cmsl12.pfb><X:/tex/miktex/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><X:/tex/miktex/fonts/type1/public/amsfonts/cm
+/cmsy7.pfb><X:/tex/miktex/fonts/type1/public/amsfonts/cm/cmti10.pfb><X:/tex/mik
+tex/fonts/type1/public/amsfonts/cm/cmti12.pfb><X:/tex/miktex/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb><X:/tex/miktex/fonts/type1/public/amsfonts/cm/cmtt12.pf
+b><X:/tex/miktex/fonts/type1/public/eurosym/feymr10.pfb>
+Output written on CEBS_v1.pdf (22 pages, 379859 bytes).
 PDF statistics:
- 716 PDF objects out of 1000 (max. 8388607)
- 654 compressed objects within 7 object streams
- 158 named destinations out of 1000 (max. 500000)
- 255 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 382 PDF objects out of 1000 (max. 8388607)
+ 125 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -3,32 +3,32 @@
 \contentsline {subsection}{\numberline {1.2}Program Description}{4}{subsection.1.2}
 \contentsline {paragraph}{Coverage}{4}{section*.4}
 \contentsline {paragraph}{Scenarios}{5}{section*.5}
-\contentsline {paragraph}{Key Common Assumptions}{7}{section*.10}
-\contentsline {paragraph}{Hurdle rate}{8}{section*.11}
-\contentsline {subsection}{\numberline {1.3}Outcomes}{8}{subsection.1.3}
-\contentsline {paragraph}{Aggregate Results}{8}{section*.12}
-\contentsline {paragraph}{Market Reception}{10}{section*.15}
-\contentsline {section}{\numberline {2}Key Design Decisions}{10}{section.2}
-\contentsline {subsection}{\numberline {2.1}27 national supervisors, CEBS, the EU Commission, and the ECB worked together on the test.}{10}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}The test covered 65\% of banking assets.}{11}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Supervisors published the methodology of the stress test and its results at a very detailed level.}{11}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Banks were required to pass a 6\% Tier 1 hurdle rate.}{11}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Pre-provision profits in the adverse scenario were just 6\% below 2009 levels.}{12}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}The sovereign shock did not include a sovereign default.}{12}{subsection.2.6}
-\contentsline {subsection}{\numberline {2.7}There was no explicit capital backstop.}{12}{subsection.2.7}
-\contentsline {subsection}{\numberline {2.8}Sovereign stresses applied to trading books and banking books differently.}{14}{subsection.2.8}
-\contentsline {subsection}{\numberline {2.9}The tests assumed a continuation of existing public support.}{14}{subsection.2.9}
-\contentsline {subsection}{\numberline {2.10}Forecast scenarios were produced by national supervisors and the adverse scenario represented a ``double dip'' recession.}{15}{subsection.2.10}
+\contentsline {paragraph}{Key Common Assumptions}{6}{section*.10}
+\contentsline {paragraph}{Hurdle rate}{7}{section*.11}
+\contentsline {subsection}{\numberline {1.3}Outcomes}{7}{subsection.1.3}
+\contentsline {paragraph}{Aggregate Results}{7}{section*.12}
+\contentsline {paragraph}{Market Reception}{9}{section*.15}
+\contentsline {section}{\numberline {2}Key Design Decisions}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}27 national supervisors, CEBS, the EU Commission, and the ECB worked together on the test.}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}The test covered 65\% of banking assets.}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Supervisors published the methodology of the stress test and its results at a very detailed level.}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Banks were required to pass a 6\% Tier 1 hurdle rate.}{10}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Pre-provision profits in the adverse scenario were just 6\% below 2009 levels.}{11}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}The sovereign shock did not include a sovereign default.}{11}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}There was no explicit capital backstop.}{11}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Sovereign stresses applied to trading books and banking books differently.}{12}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}The tests assumed a continuation of existing public support.}{13}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}Forecast scenarios were produced by national supervisors and the adverse scenario represented a ``double dip'' recession.}{14}{subsection.2.10}
 \contentsline {section}{\numberline {3}Evaluation}{15}{section.3}
-\contentsline {section}{References}{19}{section*.18}
-\contentsline {section}{\numberline {4}Appendix A - List of Resources}{22}{section.4}
-\contentsline {subsection}{\numberline {4.1}Summary of Program}{22}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Implementation Documents}{22}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Legal/Regulatory Guidance}{22}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Press Releases/Announcements}{22}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Media Stories}{23}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Key Academic Papers}{23}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}Reports/Assessments}{24}{subsection.4.7}
-\contentsline {section}{\numberline {5}Appendix B - Road Map}{24}{section.5}
-\contentsline {subsection}{\numberline {5.1}Key Questions}{24}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Implementation Steps}{26}{subsection.5.2}
+\contentsline {section}{References}{18}{section*.18}
+\contentsline {section}{\numberline {4}Appendix A - List of Resources}{18}{section.4}
+\contentsline {subsection}{\numberline {4.1}Summary of Program}{18}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Implementation Documents}{18}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Legal/Regulatory Guidance}{18}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Press Releases/Announcements}{18}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Media Stories}{19}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Key Academic Papers}{19}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Reports/Assessments}{20}{subsection.4.7}
+\contentsline {section}{\numberline {5}Appendix B - Road Map}{20}{section.5}
+\contentsline {subsection}{\numberline {5.1}Key Questions}{20}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Implementation Steps}{22}{subsection.5.2}

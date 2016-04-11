@@ -1,10 +1,7 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: CEBS_v1.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: CEBS_v1.aux
 The style file: plainnat.bst
 Database file #1: CEBS_v1.bib
-Warning--I didn't find a database entry for "Spick"
-Warning--I didn't find a database entry for "Danske"
+Warning--I didn't find a database entry for "Dankse"
 Name 1 in "Ross, Chase P., and Wiggins, R. and Metrick, A." has a comma at the end for entry RossWiggins
 while executing---line 1347 of file plainnat.bst
 Name 1 in "Ross, Chase P., and Wiggins, R. and Metrick, A." has a comma at the end for entry RossWiggins
@@ -90,45 +87,4 @@ Name 1 in "Sunderji, Aziz, and Julius, Jeroen, and Leeming, Matt" has a comma at
 while executing---line 1429 of file plainnat.bst
 Name 2 in "Sunderji, Aziz, and Julius, Jeroen, and Leeming, Matt" has a comma at the end for entry Sunderji
 while executing---line 1429 of file plainnat.bst
-You've used 28 entries,
-            2773 wiz_defined-function locations,
-            754 strings with 10041 characters,
-and the built_in function-call counts, 9568 in all, are:
-= -- 851
-> -- 436
-< -- 22
-+ -- 159
-- -- 129
-* -- 617
-:= -- 1550
-add.period$ -- 103
-call.type$ -- 28
-change.case$ -- 127
-chr.to.int$ -- 26
-cite$ -- 70
-duplicate$ -- 537
-empty$ -- 849
-format.name$ -- 168
-if$ -- 1976
-int.to.chr$ -- 3
-int.to.str$ -- 1
-missing$ -- 28
-newline$ -- 167
-num.names$ -- 108
-pop$ -- 276
-preamble$ -- 1
-purify$ -- 99
-quote$ -- 0
-skip$ -- 387
-stack$ -- 0
-substring$ -- 57
-swap$ -- 21
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 308
-warning$ -- 13
-while$ -- 81
-width$ -- 0
-write$ -- 370
 (There were 36 error messages)
