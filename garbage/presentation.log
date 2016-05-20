@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.14)  5 APR 2016 09:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.14)  26 APR 2016 10:37
 entering extended mode
-**presentation.tex
-("C:\Users\cpr22\Google Drive\work\ypfs\cebs\code\presentation.tex"
+**C:/Users/cpr22/Google*Drive/work/ypfs/cap/code/presentation.tex
+("C:/Users/cpr22/Google Drive/work/ypfs/cap/code/presentation.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -699,29 +699,29 @@ Package: moresize 1999/07/26 v1.9 (more font sizes)
 ){C:/Users/cpr22/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}{X:/tex/mikt
 ex/fonts/map/dvips/sansmathaccent/sansmathaccent.map
 
-pdfTeX warning: miktex-pdftex.exe (file X:/tex/miktex/fonts/map/dvips/sansmatha
-ccent/sansmathaccent.map): fontmap entry for `mathkerncmssi8' already exists, d
-uplicates ignored
+pdfTeX warning: pdflatex.EXE (file X:/tex/miktex/fonts/map/dvips/sansmathaccent
+/sansmathaccent.map): fontmap entry for `mathkerncmssi8' already exists, duplic
+ates ignored
 
 
-pdfTeX warning: miktex-pdftex.exe (file X:/tex/miktex/fonts/map/dvips/sansmatha
-ccent/sansmathaccent.map): fontmap entry for `mathkerncmssi9' already exists, d
-uplicates ignored
+pdfTeX warning: pdflatex.EXE (file X:/tex/miktex/fonts/map/dvips/sansmathaccent
+/sansmathaccent.map): fontmap entry for `mathkerncmssi9' already exists, duplic
+ates ignored
 
 
-pdfTeX warning: miktex-pdftex.exe (file X:/tex/miktex/fonts/map/dvips/sansmatha
-ccent/sansmathaccent.map): fontmap entry for `mathkerncmssi10' already exists, 
-duplicates ignored
+pdfTeX warning: pdflatex.EXE (file X:/tex/miktex/fonts/map/dvips/sansmathaccent
+/sansmathaccent.map): fontmap entry for `mathkerncmssi10' already exists, dupli
+cates ignored
 
 
-pdfTeX warning: miktex-pdftex.exe (file X:/tex/miktex/fonts/map/dvips/sansmatha
-ccent/sansmathaccent.map): fontmap entry for `mathkerncmssi12' already exists, 
-duplicates ignored
+pdfTeX warning: pdflatex.EXE (file X:/tex/miktex/fonts/map/dvips/sansmathaccent
+/sansmathaccent.map): fontmap entry for `mathkerncmssi12' already exists, dupli
+cates ignored
 
 
-pdfTeX warning: miktex-pdftex.exe (file X:/tex/miktex/fonts/map/dvips/sansmatha
-ccent/sansmathaccent.map): fontmap entry for `mathkerncmssi17' already exists, 
-duplicates ignored
+pdfTeX warning: pdflatex.EXE (file X:/tex/miktex/fonts/map/dvips/sansmathaccent
+/sansmathaccent.map): fontmap entry for `mathkerncmssi17' already exists, dupli
+cates ignored
 } (X:\tex\miktex\tex\latex\pgf\frontendlayer\tikz.sty
 (X:\tex\miktex\tex\latex\pgf\basiclayer\pgf.sty
 Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
@@ -853,7 +853,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
-("C:\Users\cpr22\Google Drive\work\ypfs\cebs\code\presentation.aux")
+("C:\Users\cpr22\Google Drive\work\ypfs\cap\code\presentation.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
@@ -932,8 +932,8 @@ LaTeX Info: Redefining \ref on input line 25.
 LaTeX Info: Redefining \pageref on input line 25.
 LaTeX Info: Redefining \nameref on input line 25.
 
-("C:\Users\cpr22\Google Drive\work\ypfs\cebs\code\presentation.out")
-("C:\Users\cpr22\Google Drive\work\ypfs\cebs\code\presentation.out")
+("C:\Users\cpr22\Google Drive\work\ypfs\cap\code\presentation.out")
+("C:\Users\cpr22\Google Drive\work\ypfs\cap\code\presentation.out")
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 25.
@@ -1016,7 +1016,7 @@ LaTeX Info: Redefining \includegraphics on input line 25.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-("C:\Users\cpr22\Google Drive\work\ypfs\cebs\code\presentation.nav")
+("C:\Users\cpr22\Google Drive\work\ypfs\cap\code\presentation.nav")
 LaTeX Font Info:    Try loading font information for U+msa on input line 63.
 
 (X:\tex\miktex\tex\latex\amsfonts\umsa.fd
@@ -1034,39 +1034,29 @@ line 63.
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<../input/chart.pdf, id=12, 509.16272pt x 143.03539pt>
-File: ../input/chart.pdf Graphic file (type pdf)
-
-<use ../input/chart.pdf>
-Package pdftex.def Info: ../input/chart.pdf used on input line 63.
-(pdftex.def)             Requested size: 356.41148pt x 100.12407pt.
+<../input/CDS.pdf, id=12, 511.831pt x 147.83932pt>
+File: ../input/CDS.pdf Graphic file (type pdf)
+ <use ../input/CDS.pdf>
+Package pdftex.def Info: ../input/CDS.pdf used on input line 63.
+(pdftex.def)             Requested size: 358.27925pt x 103.48682pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 63.
 
-<../input/flowchart.pdf, id=13, 606.90074pt x 339.47408pt>
-File: ../input/flowchart.pdf Graphic file (type pdf)
-
-<use ../input/flowchart.pdf>
-Package pdftex.def Info: ../input/flowchart.pdf used on input line 77.
-(pdftex.def)             Requested size: 315.5902pt x 176.52753pt.
- [3
-
-
- <C:/Users/cpr22/Google Drive/work/ypfs/cebs/input/chart.pdf> <C:/Users/cpr22/G
-oogle Drive/work/ypfs/cebs/input/flowchart.pdf>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-[4
+[3
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
- ("C:\Users\cpr22\Google Drive\work\ypfs\cebs\code\presentation.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
+
+ <C:/Users/cpr22/Google Drive/work/ypfs/cap/input/CDS.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+
+("C:\Users\cpr22\Google Drive\work\ypfs\cap\code\presentation.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1074,24 +1064,23 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
- 20688 strings out of 493921
- 403000 string characters out of 3152896
- 483243 words of memory out of 3000000
- 23506 multiletter control sequences out of 15000+200000
- 9885 words of font info for 37 fonts, out of 3000000 for 9000
+ 20695 strings out of 493921
+ 403375 string characters out of 3152896
+ 487243 words of memory out of 3000000
+ 23517 multiletter control sequences out of 15000+200000
+ 10068 words of font info for 37 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,11n,59p,430b,560s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,59p,477b,681s stack positions out of 5000i,500n,10000p,200000b,50000s
 <X:/tex/miktex/fonts/type1/public/amsfonts/cm/cmss10.pfb><X:/tex/miktex/fonts
 /type1/public/amsfonts/cm/cmss8.pfb><X:/tex/miktex/fonts/type1/public/amsfonts/
 cm/cmssbx10.pfb><X:/tex/miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><X:/tex
-/miktex/fonts/type1/public/eurosym/feymr10.pfb><X:/tex/miktex/fonts/type1/publi
-c/amsfonts/symbols/msam5.pfb>
-Output written on presentation.pdf (2 pages, 144764 bytes).
+/miktex/fonts/type1/public/amsfonts/symbols/msam5.pfb>
+Output written on presentation.pdf (1 page, 115442 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 50 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
