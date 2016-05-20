@@ -1,8 +1,8 @@
+.DS_Store
 *
 !README.md
 !code/*
 !output/*
 !.gitignore
 !*/
-
 
